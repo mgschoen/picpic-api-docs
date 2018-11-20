@@ -1,0 +1,129 @@
+#%RAML 1.0
+---
+title: Picpic
+baseUri: http://picpic-api.argonn.me/
+version: 0.6.0
+
+# Article route
+/article:
+  displayName: Article
+  description: Routes related to one specific article from the corpus
+
+  # Individual article
+  /{id}:
+    uriParameters: 
+      id: 
+        type: UUID
+        displayName: Article ID
+        description: ID of an article in the corpus
+    get:
+      description: Retrieve one specific article from the corpus
+      responses: !include responses/article-id-get.raml        
+
+    # Term matching
+    /match:
+      get:
+        description: Retrieve a matching between article an image terms including some additional stats about term features. Only works on articles with a lead image from Getty.
+        responses: !include responses/article-id-match-get.raml
+
+    # Picpic on corpus
+    /picpic:
+      /{approach}:
+        uriParameters: !include parameters/approach.raml
+        get:
+          description: Retrieve a list of automatically selected images for one article from the corpus
+          queryParameters: !include parameters/numImages.raml
+          responses: !include responses/article-id-picpic-get.raml
+        /{threshold}:
+          uriParameters: !include parameters/threshold.raml
+          get:
+            description: Retrieve a list of automatically selected images for one article from the corpus
+            queryParameters: !include parameters/numImages.raml
+            responses: !include responses/article-id-picpic-get.raml
+          /{sortOrder}:
+            uriParameters: !include parameters/sortOrder.raml
+            get:
+              description: Retrieve a list of automatically selected images for one article from the corpus
+              queryParameters: !include parameters/numImages.raml
+              responses: !include responses/article-id-picpic-get.raml
+
+    # Plot data
+    /plot:
+      /fo-tf:
+        get:
+          description: Retrieve data for a plot that visualises term frequency and first occurrence of article terms
+          responses: !include responses/article-id-plot-fo-tf.raml
+
+# Articles route
+/articles:
+  displayName: Articles
+  description: Routes related to the whole corpus
+
+  /{page}:
+    uriParameters: !include parameters/page.raml
+    get:
+      description: Retrieve 20 articles from the corpus, along with some information about list pagination
+      responses: !include responses/articles-page-get.raml
+  /gettylead:
+    /{page}:
+      uriParameters: !include parameters/page.raml
+      get:
+        description: Retrieve 20 articles with a Getty image as their lead image from the corpus, along with some information about list pagination
+        responses: !include responses/articles-gettylead-page-get.raml
+
+# Custom route
+/custom:
+  displayName: Custom
+  description: Routes related to custom content
+  /picpic:
+    /{approach}:
+      uriParameters: !include parameters/approach.raml
+      post:
+        description: Retrieve a list of automatically selected images for arbitrary text in English. Submit the article as plain text in the request body.
+        queryParameters: !include parameters/numImages.raml
+        body:
+          text/plain:
+            type: String
+        responses: !include responses/custom-picpic-post.raml
+      /{threshold}:
+        uriParameters: !include parameters/threshold.raml
+        post:
+          description: Retrieve a list of automatically selected images for arbitrary text in English. Submit the article as plain text in the request body.
+          queryParameters: !include parameters/numImages.raml
+          body:
+            text/plain:
+              type: String
+          responses: !include responses/custom-picpic-post.raml
+        /{sortOrder}:
+          uriParameters: !include parameters/sortOrder.raml
+          post:
+            description: Retrieve a list of automatically selected images for arbitrary text in English. Submit the article as plain text in the request body.
+            queryParameters: !include parameters/numImages.raml
+            body:
+              text/plain:
+                type: String
+            responses: !include responses/custom-picpic-post.raml
+      
+# Search route
+/search:
+  displayName: Search
+  description: Routes for searching the corpus
+
+  /{term}:
+    uriParameters: !include parameters/term.raml
+    get:
+      description: Search for articles in the corpus with a search term. Returns the first 20 results
+      responses: !include responses/search-get.raml
+    /{page}:
+      uriParameters: !include parameters/page.raml
+      get:
+        description: Search for articles in the corpus with a search term. Returns one page from a paginated list of results
+        responses: !include responses/search-get.raml
+
+# Stats route
+/stats:
+  displayName: Stats
+  description: Corpus statistics
+  get:
+    description: Retrieve corpus statistics
+    responses: !include responses/stats-get.raml

@@ -1,0 +1,430 @@
+{
+  "queryString":"jamal khashoggi riyadh",
+  "queryTerms":[
+    {
+      "firstOccurrence":0,
+      "termFrequency":12,
+      "calaisEntityType":"Person",
+      "containingElements":[
+        "P"
+      ],
+      "originalTerms":[
+        "Jamal Khashoggi",
+        "Khashoggi"
+      ],
+      "pos":{
+        "nouns":[
+
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "Jamal",
+          "Khashoggi"
+        ]
+      },
+      "p":0.8257588148117065,
+      "stemmedTerm":"jamal khashoggi"
+    },
+    {
+      "firstOccurrence":0.06519003272086585,
+      "termFrequency":7,
+      "calaisEntityType":"City",
+      "containingElements":[
+        "P"
+      ],
+      "originalTerms":[
+        "Riyadh",
+        "the Saudi capital"
+      ],
+      "pos":{
+        "nouns":[
+          "Riyadh"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "p":0.3669818937778473,
+      "stemmedTerm":"riyadh"
+    },
+    {
+      "firstOccurrence":0.26453561540397685,
+      "termFrequency":5,
+      "calaisEntityType":"Country",
+      "containingElements":[
+        "P"
+      ],
+      "originalTerms":[
+        "Turkey"
+      ],
+      "pos":{
+        "nouns":[
+          "Turkey"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "p":0.3621991276741028,
+      "stemmedTerm":"turkei"
+    },
+    {
+      "firstOccurrence":0.04102693178957966,
+      "termFrequency":3,
+      "calaisEntityType":"Position",
+      "containingElements":[
+        "P"
+      ],
+      "originalTerms":[
+        "chief prosecutor"
+      ],
+      "pos":{
+        "nouns":[
+          "chief",
+          "prosecutor"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+          "chief"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "p":0.3521801829338074,
+      "stemmedTerm":"chief prosecutor"
+    },
+    {
+      "firstOccurrence":0.438963000251699,
+      "termFrequency":3,
+      "calaisEntityType":"Position",
+      "containingElements":[
+        "P"
+      ],
+      "originalTerms":[
+        "prosecutor",
+        "the prosecutor"
+      ],
+      "pos":{
+        "nouns":[
+          "prosecutor"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "p":0.24866531789302826,
+      "stemmedTerm":"prosecutor"
+    },
+    {
+      "firstOccurrence":0.06065945129624969,
+      "termFrequency":2,
+      "calaisEntityType":"Position",
+      "containingElements":[
+        "P"
+      ],
+      "originalTerms":[
+        "journalist",
+        "the journalist"
+      ],
+      "pos":{
+        "nouns":[
+          "journalist"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "p":0.2483321726322174,
+      "stemmedTerm":"journalist"
+    },
+    {
+      "firstOccurrence":0.20236597029952177,
+      "termFrequency":3,
+      "calaisEntityType":"City",
+      "containingElements":[
+        "P"
+      ],
+      "originalTerms":[
+        "Istanbul"
+      ],
+      "pos":{
+        "nouns":[
+          "Istanbul"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "p":0.21162810921669006,
+      "stemmedTerm":"istanbul"
+    },
+    {
+      "firstOccurrence":0.45683362698212937,
+      "termFrequency":3,
+      "calaisEntityType":"Country",
+      "containingElements":[
+        "P"
+      ],
+      "originalTerms":[
+        "Saudi Arabia"
+      ],
+      "pos":{
+        "nouns":[
+          "Saudi",
+          "Arabia"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+          "Saudi"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "p":0.18534789979457855,
+      "stemmedTerm":"saudi arabia"
+    },
+    {
+      "originalTerms":[
+        "investigators",
+        "investigation"
+      ],
+      "containingElements":[
+        "P",
+        "P",
+        "P",
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "investig"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "investig"
+        ]
+      },
+      "firstOccurrence":0.15051598288447018,
+      "termFrequency":7,
+      "p":0.16081465780735016,
+      "stemmedTerm":"investig"
+    },
+    {
+      "firstOccurrence":0.17543418071985906,
+      "termFrequency":2,
+      "calaisEntityType":"Position",
+      "containingElements":[
+        "P"
+      ],
+      "originalTerms":[
+        "consul general",
+        "the consul general"
+      ],
+      "pos":{
+        "nouns":[
+          "consul",
+          "general"
+        ],
+        "verbs":[
+          "general"
+        ],
+        "adjectives":[
+          "general"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "p":0.15836185216903687,
+      "stemmedTerm":"consul gener"
+    },
+    {
+      "originalTerms":[
+        "killing",
+        "kill"
+      ],
+      "containingElements":[
+        "P",
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "kill"
+        ],
+        "verbs":[
+          "kill"
+        ],
+        "adjectives":[
+          "kill"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.03624465139692927,
+      "termFrequency":5,
+      "p":0.1497599482536316,
+      "stemmedTerm":"kill"
+    },
+    {
+      "originalTerms":[
+        "not"
+      ],
+      "containingElements":[
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+          "not"
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.431412031210672,
+      "termFrequency":4,
+      "p":0.1311848908662796,
+      "stemmedTerm":"not"
+    },
+    {
+      "firstOccurrence":0.01409514220991694,
+      "termFrequency":2,
+      "calaisEntityType":"Organization",
+      "containingElements":[
+        "P"
+      ],
+      "originalTerms":[
+        "Saudi consulate in Istanbul",
+        "consulate"
+      ],
+      "pos":{
+        "nouns":[
+          "Saudi",
+          "consulate",
+          "in",
+          "Istanbul"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+          "Saudi",
+          "in"
+        ],
+        "adverbs":[
+          "in"
+        ],
+        "rest":[
+
+        ]
+      },
+      "p":0.1132049411535263,
+      "stemmedTerm":"saudi consul in istanbul"
+    }
+  ],
+  "images": [
+    {
+      "id":"1052741836",
+      "title":"SAUDI-BUSINESS-DIPLOMACY-POLITICS-CONFERENCE",
+      "caption":"A picture taken on October 22, 2018 shows a portrait of Saudi Crown Prince Mohammed bin Salman (MBS) in the capital Riyadh one day ahead of the the Future Investment Initiative FII conference that will take place in Riyadh from 23-25 October. - Saudi Arabia will host a key investment summit overshadowed by the killing of critic Jamal Khashoggi that has prompted a wave of policymakers and corporate giants to withdraw. (Photo by FAYEZ NURELDINE / AFP)        (Photo credit should read FAYEZ NURELDINE/AFP/Getty Images)",
+      "previewUrl":"https://media.gettyimages.com/photos/picture-taken-on-october-22-2018-shows-a-portrait-of-saudi-crown-picture-id1052741836?b=1&k=6&m=1052741836&s=612x612&h=j_sAzpFQAeaDf5IifSvDzYLNUWRkTaSBinlcKwk9gko=",
+      "detailUrl":"https://www.gettyimages.com/detail/news-photo/picture-taken-on-october-22-2018-shows-a-portrait-of-saudi-news-photo/1052741836"
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "queryString":"qatar s emir",
+  "queryTerms":[
+    {
+      "originalTerms":[
+        "Qatar"
+      ],
+      "containingElements":[
+        "H1",
+        "P",
+        "P",
+        "P",
+        "LI",
+        "LI",
+        "LI",
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "qatar"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0,
+      "termFrequency":10,
+      "p":1,
+      "stemmedTerm":"qatar"
+    },
+    {
+      "originalTerms":[
+        "Turkey"
+      ],
+      "containingElements":[
+        "H1",
+        "P",
+        "P",
+        "P",
+        "LI",
+        "P",
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "turkei"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.018734388009991675,
+      "termFrequency":10,
+      "p":0.9812656119900083,
+      "stemmedTerm":"turkei"
+    },
+    {
+      "originalTerms":[
+        "emir",
+        "Emirates"
+      ],
+      "containingElements":[
+        "H1",
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "emir"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "emir"
+        ]
+      },
+      "firstOccurrence":0.0029142381348875937,
+      "termFrequency":5,
+      "p":0.4985428809325562,
+      "stemmedTerm":"emir"
+    },
+    {
+      "originalTerms":[
+        "jet"
+      ],
+      "containingElements":[
+        "H1",
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "jet"
+        ],
+        "verbs":[
+          "jet"
+        ],
+        "adjectives":[
+          "jet"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.01582014987510408,
+      "termFrequency":5,
+      "p":0.492089925062448,
+      "stemmedTerm":"jet"
+    },
+    {
+      "originalTerms":[
+        "Erdogan"
+      ],
+      "containingElements":[
+        "P",
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "erdogan"
+        ]
+      },
+      "firstOccurrence":0.035803497085761866,
+      "termFrequency":5,
+      "p":0.48209825145711904,
+      "stemmedTerm":"erdogan"
+    },
+    {
+      "originalTerms":[
+        "state",
+        "states",
+        "States"
+      ],
+      "containingElements":[
+        "P",
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "state"
+        ],
+        "verbs":[
+          "state"
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "state"
+        ]
+      },
+      "firstOccurrence":0.10407993338884262,
+      "termFrequency":5,
+      "p":0.4479600333055787,
+      "stemmedTerm":"state"
+    },
+    {
+      "originalTerms":[
+        "Qatar s emir"
+      ],
+      "containingElements":[
+        "H1",
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "qatar",
+          "s",
+          "emir"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0,
+      "termFrequency":4,
+      "p":0.4,
+      "stemmedTerm":"qatar s emir"
+    },
+    {
+      "originalTerms":[
+        "President",
+        "president"
+      ],
+      "containingElements":[
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "presid"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.026228143213988343,
+      "termFrequency":4,
+      "p":0.38950874271440467,
+      "stemmedTerm":"presid"
+    },
+    {
+      "originalTerms":[
+        "Mr Erdogan"
+      ],
+      "containingElements":[
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "Mr"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "erdogan"
+        ]
+      },
+      "firstOccurrence":0.06910907577019151,
+      "termFrequency":4,
+      "p":0.37235636969192343,
+      "stemmedTerm":"Mr erdogan"
+    },
+    {
+      "originalTerms":[
+        "Mr"
+      ],
+      "containingElements":[
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "Mr"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.06910907577019151,
+      "termFrequency":4,
+      "p":0.37235636969192343,
+      "stemmedTerm":"Mr"
+    },
+    {
+      "originalTerms":[
+        "Boeing 747"
+      ],
+      "containingElements":[
+        "H1",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "boe",
+          "747"
+        ]
+      },
+      "firstOccurrence":0.00791007493755204,
+      "termFrequency":3,
+      "p":0.2976269775187344,
+      "stemmedTerm":"boe 747"
+    },
+    {
+      "originalTerms":[
+        "Boeing"
+      ],
+      "containingElements":[
+        "H1",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "boe"
+        ]
+      },
+      "firstOccurrence":0.00791007493755204,
+      "termFrequency":3,
+      "p":0.2976269775187344,
+      "stemmedTerm":"boe"
+    },
+    {
+      "originalTerms":[
+        "747"
+      ],
+      "containingElements":[
+        "H1",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "747"
+        ]
+      },
+      "firstOccurrence":0.010824313072439634,
+      "termFrequency":3,
+      "p":0.2967527060782681,
+      "stemmedTerm":"747"
+    },
+    {
+      "originalTerms":[
+        "Turkish"
+      ],
+      "containingElements":[
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "turkish"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+          "turkish"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.10074937552039967,
+      "termFrequency":3,
+      "p":0.2697751873438801,
+      "stemmedTerm":"turkish"
+    },
+    {
+      "originalTerms":[
+        "gives",
+        "give"
+      ],
+      "containingElements":[
+        "H1",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "give"
+        ],
+        "verbs":[
+          "give"
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "give"
+        ]
+      },
+      "firstOccurrence":0.004995836802664446,
+      "termFrequency":2,
+      "p":0.1990008326394671,
+      "stemmedTerm":"give"
+    },
+    {
+      "originalTerms":[
+        "private jet"
+      ],
+      "containingElements":[
+        "H1",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "privat",
+          "jet"
+        ],
+        "verbs":[
+          "jet"
+        ],
+        "adjectives":[
+          "privat",
+          "jet"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.012489592006661115,
+      "termFrequency":2,
+      "p":0.19750208159866778,
+      "stemmedTerm":"privat jet"
+    },
+    {
+      "originalTerms":[
+        "private"
+      ],
+      "containingElements":[
+        "H1",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "privat"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+          "privat"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.012489592006661115,
+      "termFrequency":2,
+      "p":0.19750208159866778,
+      "stemmedTerm":"privat"
+    },
+    {
+      "originalTerms":[
+        "says",
+        "saying"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "sai"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "sai"
+        ]
+      },
+      "firstOccurrence":0.03913405495420483,
+      "termFrequency":2,
+      "p":0.19217318900915903,
+      "stemmedTerm":"sai"
+    },
+    {
+      "originalTerms":[
+        "given"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "given"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+          "given"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.04621149042464613,
+      "termFrequency":2,
+      "p":0.1907577019150708,
+      "stemmedTerm":"given"
+    },
+    {
+      "originalTerms":[
+        "worth"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "worth"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+          "worth"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.05120732722731058,
+      "termFrequency":2,
+      "p":0.1897585345545379,
+      "stemmedTerm":"worth"
+    },
+    {
+      "originalTerms":[
+        "Sheikh"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "sheikh"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.0761865112406328,
+      "termFrequency":2,
+      "p":0.18476269775187346,
+      "stemmedTerm":"sheikh"
+    },
+    {
+      "originalTerms":[
+        "Boeing 747 8i"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "boe",
+          "747",
+          "8i"
+        ]
+      },
+      "firstOccurrence":0.09200666111573688,
+      "termFrequency":2,
+      "p":0.18159866777685263,
+      "stemmedTerm":"boe 747 8i"
+    },
+    {
+      "originalTerms":[
+        "747 8i"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "747",
+          "8i"
+        ]
+      },
+      "firstOccurrence":0.09492089925062448,
+      "termFrequency":2,
+      "p":0.1810158201498751,
+      "stemmedTerm":"747 8i"
+    },
+    {
+      "originalTerms":[
+        "8i"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+          "8i"
+        ]
+      },
+      "firstOccurrence":0.09658617818484597,
+      "termFrequency":2,
+      "p":0.18068276436303082,
+      "stemmedTerm":"8i"
+    },
+    {
+      "originalTerms":[
+        "interested",
+        "interest"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "interest"
+        ],
+        "verbs":[
+          "interest"
+        ],
+        "adjectives":[
+          "interest"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.11740216486261448,
+      "termFrequency":2,
+      "p":0.17651956702747712,
+      "stemmedTerm":"interest"
+    },
+    {
+      "originalTerms":[
+        "buying",
+        "buy"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "bui"
+        ],
+        "verbs":[
+          "bui"
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.12323064113238967,
+      "termFrequency":2,
+      "p":0.17535387177352207,
+      "stemmedTerm":"bui"
+    },
+    {
+      "originalTerms":[
+        "Opposition",
+        "opposition"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "opposit"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.1273938384679434,
+      "termFrequency":2,
+      "p":0.17452123230641134,
+      "stemmedTerm":"opposit"
+    },
+    {
+      "originalTerms":[
+        "expressed"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+          "express"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.1357202331390508,
+      "termFrequency":2,
+      "p":0.17285595337218984,
+      "stemmedTerm":"express"
+    },
+    {
+      "originalTerms":[
+        "money"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "monei"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.1594504579517069,
+      "termFrequency":2,
+      "p":0.16810990840965864,
+      "stemmedTerm":"monei"
+    },
+    {
+      "originalTerms":[
+        "crisis"
+      ],
+      "containingElements":[
+        "P",
+        "LI"
+      ],
+      "pos":{
+        "nouns":[
+          "crisi"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.18692756036636138,
+      "termFrequency":2,
+      "p":0.16261448792672772,
+      "stemmedTerm":"crisi"
+    },
+    {
+      "originalTerms":[
+        "year"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "year"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.20233139050791007,
+      "termFrequency":2,
+      "p":0.159533721898418,
+      "stemmedTerm":"year"
+    },
+    {
+      "originalTerms":[
+        "stand",
+        "standing"
+      ],
+      "containingElements":[
+        "P",
+        "LI"
+      ],
+      "pos":{
+        "nouns":[
+          "stand"
+        ],
+        "verbs":[
+          "stand"
+        ],
+        "adjectives":[
+          "stand"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.20649458784346378,
+      "termFrequency":2,
+      "p":0.15870108243130726,
+      "stemmedTerm":"stand"
+    },
+    {
+      "originalTerms":[
+        "Arab"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "arab"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.21523730224812657,
+      "termFrequency":2,
+      "p":0.1569525395503747,
+      "stemmedTerm":"arab"
+    },
+    {
+      "originalTerms":[
+        "United"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+          "unit"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.22814321398834306,
+      "termFrequency":2,
+      "p":0.15437135720233142,
+      "stemmedTerm":"unit"
+    },
+    {
+      "originalTerms":[
+        "last",
+        "Last"
+      ],
+      "containingElements":[
+        "P",
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "last"
+        ],
+        "verbs":[
+          "last"
+        ],
+        "adjectives":[
+          "last"
+        ],
+        "adverbs":[
+          "last"
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.4866777685262281,
+      "termFrequency":3,
+      "p":0.15399666944213156,
+      "stemmedTerm":"last"
+    },
+    {
+      "originalTerms":[
+        "diplomatic"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+          "diplomat"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.2497918401332223,
+      "termFrequency":2,
+      "p":0.15004163197335554,
+      "stemmedTerm":"diplomat"
+    },
+    {
+      "originalTerms":[
+        "close",
+        "closed"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "close"
+        ],
+        "verbs":[
+          "close"
+        ],
+        "adjectives":[
+          "close"
+        ],
+        "adverbs":[
+          "close"
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.2768526228143214,
+      "termFrequency":2,
+      "p":0.14462947543713575,
+      "stemmedTerm":"close"
+    },
+    {
+      "originalTerms":[
+        "support"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "support"
+        ],
+        "verbs":[
+          "support"
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.29142381348875934,
+      "termFrequency":2,
+      "p":0.14171523730224814,
+      "stemmedTerm":"support"
+    },
+    {
+      "originalTerms":[
+        "land",
+        "landed"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "land"
+        ],
+        "verbs":[
+          "land"
+        ],
+        "adjectives":[
+          "land"
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.3480432972522898,
+      "termFrequency":2,
+      "p":0.13039134054954205,
+      "stemmedTerm":"land"
+    },
+    {
+      "originalTerms":[
+        "last month",
+        "Last month"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "last",
+          "month"
+        ],
+        "verbs":[
+          "last"
+        ],
+        "adjectives":[
+          "last"
+        ],
+        "adverbs":[
+          "last"
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.4866777685262281,
+      "termFrequency":2,
+      "p":0.10266444629475438,
+      "stemmedTerm":"last month"
+    },
+    {
+      "originalTerms":[
+        "month"
+      ],
+      "containingElements":[
+        "P",
+        "P"
+      ],
+      "pos":{
+        "nouns":[
+          "month"
+        ],
+        "verbs":[
+
+        ],
+        "adjectives":[
+
+        ],
+        "adverbs":[
+
+        ],
+        "rest":[
+
+        ]
+      },
+      "firstOccurrence":0.488759367194005,
+      "termFrequency":2,
+      "p":0.10224812656119903,
+      "stemmedTerm":"month"
+    }
+  ],
+  "images":[
+    {
+      "id":"686286118",
+      "title":"US-Gulf summit opens in Saudi capital",
+      "caption":"RIYADH, SAUDI ARABIA - MAY 21 : (----EDITORIAL USE ONLY  MANDATORY CREDIT - 'BANDAR ALGALOUD / SAUDI ROYAL COUNCIL / HANDOUT' - NO MARKETING NO ADVERTISING CAMPAIGNS - DISTRIBUTED AS A SERVICE TO CLIENTS----) U.S. President Donald Trump (5th L), King of Saudi Arabia, Salman bin Abdulaziz  Al Saud (5th R), The Crown Prince of Abu Dhabi General Sheikh Mohammed Bin Zayed Al Nahyan (3rd L), King of Bahrain Hamad bin Isa Al Khalifa (4th R), Kuwaiti Emir Sheikh Jaber al-Ahmad al-Sabah (4th L), Emir Of Qatar Sheikh Tamim bin Hamad Al Thani (2nd R) and Deputy Prime Minister of the Sultanate of Oman, Sayyid Fahd bin Mahmoud al Said (3rd R) are seen during the U.S. - Gulf Summit at King Abdul Aziz International Conference Center in Riyadh, Saudi Arabia May 21, 2017. (Photo by BANDAR ALGALOUD / SAUDI ROYAL COUNCIL / HANDOUT/Anadolu Agency/Getty Images)",
+      "previewUrl":"https://media.gettyimages.com/photos/president-donald-trump-king-of-saudi-arabia-salman-bin-abdulaziz-al-picture-id686286118?b=1&k=6&m=686286118&s=612x612&h=UuT6N5qtV4rJS4Zhtcj7SCrdoQD9jwXhbTcDvM6IeEI=",
+      "detailUrl":"https://www.gettyimages.com/detail/news-photo/president-donald-trump-king-of-saudi-arabia-salman-bin-news-photo/686286118"
+    },{
+      "id": "1060189464",
+      "title": "President Trump Attends Armistice Commemorations",
+      "caption": "Sheikh Tamim bin Hamad Al Thani, the Emir of Qatar, arrives at the Musee d'Orsay for a dinner during World War I commemoration ceremonies in Paris, France, on Saturday, Nov. 10, 2018. French President Emmanuel Macron moved to smooth over ruffled relations with Donald Trump after the U.S. president took offense at his proposal Europe create its own continental military force. Photographer: Marlene Awaad/Bloomberg via Getty Images",
+      "previewUrl": "https://media.gettyimages.com/photos/sheikh-tamim-bin-hamad-al-thani-the-emir-of-qatar-arrives-at-the-a-picture-id1060189464?b=1&k=6&m=1060189464&s=612x612&h=mMLDgxIL2wPpez2iLVBKylFgoZZQOdSZXggfnI9K1Gc=",
+      "detailUrl": "https://www.gettyimages.com/detail/news-photo/sheikh-tamim-bin-hamad-al-thani-the-emir-of-qatar-arrives-news-photo/1060189464"
+    }
+  ]
+}
