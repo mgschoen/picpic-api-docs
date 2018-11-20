@@ -5,7 +5,7 @@
   "main": "base.raml",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "raml2html --theme raml2html-material-theme -i base.raml -o ./dist/index.html"
+    "start": "raml2html --theme raml2html-material-theme -i base.raml -o ./docs/index.html"
   },
   "author": "Martin Schön",
   "license": "ISC",
