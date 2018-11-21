@@ -1,6 +1,6 @@
 {
   "name": "picpic-api-docs",
-  "version": "0.1.0",
+  "version": "0.7.0",
   "description": "Documentation for picpic-api",
   "main": "base.raml",
   "scripts": {
