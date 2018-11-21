@@ -2,7 +2,7 @@
 ---
 title: Picpic
 baseUri: http://picpic-api.argonn.me/
-version: 0.6.0
+version: 0.7.0
 
 # Article route
 /article:
@@ -32,20 +32,8 @@ version: 0.6.0
         uriParameters: !include parameters/approach.raml
         get:
           description: Retrieve a list of automatically selected images for one article from the corpus
-          queryParameters: !include parameters/numImages.raml
+          queryParameters: !include parameters/picpic-query-params.raml
           responses: !include responses/article-id-picpic-get.raml
-        /{threshold}:
-          uriParameters: !include parameters/threshold.raml
-          get:
-            description: Retrieve a list of automatically selected images for one article from the corpus
-            queryParameters: !include parameters/numImages.raml
-            responses: !include responses/article-id-picpic-get.raml
-          /{sortOrder}:
-            uriParameters: !include parameters/sortOrder.raml
-            get:
-              description: Retrieve a list of automatically selected images for one article from the corpus
-              queryParameters: !include parameters/numImages.raml
-              responses: !include responses/article-id-picpic-get.raml
 
     # Plot data
     /plot:
@@ -80,29 +68,11 @@ version: 0.6.0
       uriParameters: !include parameters/approach.raml
       post:
         description: Retrieve a list of automatically selected images for arbitrary text in English. Submit the article as plain text in the request body.
-        queryParameters: !include parameters/numImages.raml
+        queryParameters: !include parameters/picpic-query-params.raml
         body:
           text/plain:
             type: String
         responses: !include responses/custom-picpic-post.raml
-      /{threshold}:
-        uriParameters: !include parameters/threshold.raml
-        post:
-          description: Retrieve a list of automatically selected images for arbitrary text in English. Submit the article as plain text in the request body.
-          queryParameters: !include parameters/numImages.raml
-          body:
-            text/plain:
-              type: String
-          responses: !include responses/custom-picpic-post.raml
-        /{sortOrder}:
-          uriParameters: !include parameters/sortOrder.raml
-          post:
-            description: Retrieve a list of automatically selected images for arbitrary text in English. Submit the article as plain text in the request body.
-            queryParameters: !include parameters/numImages.raml
-            body:
-              text/plain:
-                type: String
-            responses: !include responses/custom-picpic-post.raml
       
 # Search route
 /search:

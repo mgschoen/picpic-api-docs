@@ -1,0 +1,22 @@
+threshold: 
+  type: number
+  default: 0.5
+  minimum: 0.0
+  maximum: 1.0
+  displayName: Threshold
+  description: Probability threshold that defines which terms are considered for query generation and which are discarded
+  required: false
+sortOrder: 
+  type: best_match | most_popular | newest
+  default: most_popular
+  displayName: Sort Order
+  description: Image sort order that is applied by the Getty API (see <a href="https://developers.gettyimages.com/docs/#operation/Search_GetImagesByPhrase">Getty Docs</a>)
+  required: false
+numImages:
+  displayName: Number of images
+  type: number
+  description: The number of images to return
+  minimum: 1
+  maximum: 20
+  default: 1
+  required: false
