@@ -59,6 +59,14 @@ version: 0.7.0
         description: Retrieve 20 articles with a Getty image as their lead image from the corpus, along with some information about list pagination
         responses: !include responses/articles-gettylead-page-get.raml
 
+# Awake route
+/awake:
+  displayName: Awake
+  description: Wake it up!
+  get:
+    description: Check if the app is awake. Returns true if it is.
+    responses: !include responses/awake-get.raml
+
 # Custom route
 /custom:
   displayName: Custom
